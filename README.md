@@ -7,7 +7,7 @@ This repository contains simple Dockerfile that can used as environment to build
 The Dockerfile has everything you need to build an Android application with Flutter. It has: 
 1. Android SDK
 2. Flutter
-3. Fastlane
+3. Ruby
 
 ### Usage
 
